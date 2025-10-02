@@ -1,5 +1,6 @@
 # Advanced-Human-Life-Detection
 A portable, real-time rescue tool that fuses mmWave radar, microphone, and accelerometer signals using advanced digital signal processing (FFT, DWT) and machine learning to detect survivors under debris.
+![Uploading fullbox.jpeg…]()
 
 ## Features
 - **Multi-sensor Fusion:** Integrates radar, audio, and vibration data.
