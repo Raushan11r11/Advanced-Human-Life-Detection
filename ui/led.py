@@ -1,3 +1,7 @@
+"""
+LED control for status indication (started, human detected, completed).
+"""
+
 class LED:
     def __init__(self, pin1, pin2, pin3):
         pass
