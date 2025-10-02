@@ -1,3 +1,8 @@
+"""
+RadarSensor interface.
+Reads motion presence and distance from radar hardware.
+"""
+
 class RadarSensor:
     def read(self):
         # Replace with hardware-specific code
