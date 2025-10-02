@@ -1,3 +1,8 @@
+"""
+Main application for real-time disaster victim detection.
+Reads sensor data, extracts features, runs ML or rule-based detection,
+and updates user interface with detection results.
+"""
 import time
 import os
 import joblib
