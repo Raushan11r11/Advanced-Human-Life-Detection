@@ -1,3 +1,10 @@
+"""
+Feature extraction from raw sensor data using FFT and DWT.
+Outputs a feature vector for classification.
+"""
+def extract_features(...):
+    """Extracts statistical, spectral, and wavelet features from all sensor streams."""
+
 import numpy as np
 from processing.fft import compute_fft
 from processing.dwt import compute_dwt
