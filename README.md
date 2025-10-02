@@ -46,7 +46,7 @@ A portable, real-time rescue tool that fuses mmWave radar, microphone, and accel
 Open issues or pull requests to improve hardware integration, add new signal processing features, or adapt model training.
 
 ## License
-VRS
+MIT
 
 ## Contact
 For questions, open an issue or email `vijaysaravanan1609@gmail.com`.
